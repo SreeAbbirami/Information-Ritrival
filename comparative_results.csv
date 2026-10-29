@@ -1,0 +1,5 @@
+Classifier,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+Decision Tree,0.0,0.0,0.0,0.0
+KNN (k=7),100.0,20.0,20.0,20.0
+Linear SVM,0.0,0.0,0.0,0.0
+Naïve Bayes,100.0,20.0,20.0,20.0
